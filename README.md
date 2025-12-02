@@ -8,3 +8,5 @@ Credits
 Scifi Turret : NavXGen studio
 Paragon Minons: Epic Games
 ALS System Characters: LongmireLocomotion
+
+Programming: Luis Santos (AppleTruffle)
